@@ -1,4 +1,2 @@
-✅ Задачки спейса ✅
-====
+## ⚠️ **Все задачки в [Issues](https://github.com/undefspace/tasks/issues)** ⚠️
 
-В (Issues)(https://github.com/undefspace/issues) этого репозитория валяются всякие задачки, которые хорошо бы решить или обсудить для улучшения спейса.
